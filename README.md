@@ -13,4 +13,5 @@ docker run -d \
 
 then get the password login 
 
-Making pipeline
+Making pipeline GitHub Repo → Jenkins Pipeline → Build → Success
+getting the plugins required
