@@ -15,3 +15,10 @@ then get the password login
 
 Making pipeline GitHub Repo → Jenkins Pipeline → Build → Success
 getting the plugins required
+did the manual build for website then now the CI/CD creation
+
+Build Triggers section: 
+
+✅ Tick:
+
+GitHub hook trigger for GITScm polling
